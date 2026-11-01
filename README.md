@@ -24,7 +24,7 @@ A lightweight, browser-based passport utility toolkit built with HTML, CSS, and 
 - Canvas API
 
 ### Credits
-**Created by Tasfiq Ahmed**
+**Created by Tasfiq Ahmed Sami**
 
 ---
 
